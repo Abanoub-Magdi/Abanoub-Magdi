@@ -53,7 +53,19 @@
 
 ![Abanoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
+
+
+
+<!--****************************************************************************************************************************************************************************************** -->
+
+<!-- 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubmagdi&layout=compact&theme=radical&exclude_repo=repo1,repo2)
+
+### 💼 Notable Projects:
+- [Project 1](https://github.com/abanoubmagdi/project1): Description of what this project is and what technologies you used.
+- [Project 2](https://github.com/abanoubmagdi/project2): Another key project showcasing your Angular or .NET work.
+
 
 <!--****************************************************************************************************************************************************************************************** -->
 
