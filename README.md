@@ -16,7 +16,17 @@
 
 ---
 
+
+
+
 ### 🛠️ Technical Skills:
+
+- **Languages:** C#, JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frameworks & Libraries:** .NET Core, Angular, React, Redux, Entity Framework
+- **Tools & Platforms:** Git, Azure, Docker, GitHub, Node.js, npm
+- **Databases:** SQL Server, MySQL, MongoDB
+- **Others:** API development (RESTful), Web Security, Unit Testing, CI/CD pipelines
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="dotnetcore" />
@@ -30,16 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="docker" />
 </p>
 
----
-
-
-### 🛠️ Technical Skills:
-
-- **Languages:** C#, JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks & Libraries:** .NET Core, Angular, React, Redux, Entity Framework
-- **Tools & Platforms:** Git, Azure, Docker, GitHub, Node.js, npm
-- **Databases:** SQL Server, MySQL, MongoDB
-- **Others:** API development (RESTful), Web Security, Unit Testing, CI/CD pipelines
 
 ---
 
