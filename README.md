@@ -2,12 +2,11 @@
 
 ## A Fullstack .NET , Angular Developer  
 
-## 📫 How to reach me:
+## 📫 *How to reach me 👇*
 
 ## Linkedin: https://linkedin.com/in/abanoub-magdi
 
-## Phone:
-## 01227926342 , 01009481399 
+## Phone:  `01227926342` , `01009481399` 
 
 ## Email: abanoubmagdi.y@gmail.com
 
