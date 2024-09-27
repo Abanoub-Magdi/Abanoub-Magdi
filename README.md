@@ -1,14 +1,18 @@
-## Hi  👋 Im Abanoub Magdi
+# Hi, I'm Abanoub Magdi 👋
 
-## A Fullstack .NET , Angular Developer  
+## Fullstack .NET & Angular Developer
 
-## 📫 *How to reach me 👇*
+### Software Engineer at Etisalat by e& (Etisalat Misr)
 
-## Linkedin: https://linkedin.com/in/abanoub-magdi
+---
 
-## Phone:  `01227926342` , `01009481399` 
+### 📫 Contact Information:
 
-## Email: abanoubmagdi.y@gmail.com
+- **LinkedIn:** [Abanoub Magdi](https://linkedin.com/in/abanoub-magdi)
+- **Phone:** `01227926342`, `01009481399`
+- **Email:** [abanoubmagdi.y@gmail.com](mailto:abanoubmagdi.y@gmail.com)
+
+---
 
 <!--
 **Abanoub-Magdi/Abanoub-Magdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
