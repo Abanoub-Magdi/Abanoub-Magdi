@@ -11,7 +11,7 @@
 - 🔧 Fullstack Developer specialized in **.NET** and **Angular** with over two years of experience in front-end and back-end development.
 - 💻 Passionate about developing scalable web applications and building user-friendly solutions.
 - 🎯 Currently focused on enhancing cross-browser compatibility, optimizing performance, and improving overall user experience.
-- 🌐 Strong background in **API development**, **state management** (Redux, Context API), and **responsive web design**.
+- 🌐 Strong background in **API development**,<!-- **state management** (Redux, Context API),--> and **responsive web design**.
 
 ---
 
@@ -53,6 +53,27 @@
 
 ![Abanoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
+
+<!--****************************************************************************************************************************************************************************************** -->
+
+
+<!-- 
+### 💻 Top Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubmagdi&layout=compact&theme=radical)
+
+
+### 🔥 GitHub Streak:
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=abanoubmagdi&theme=radical)
+-->
+
+
+
+<!--******************************************************************************************************************************************************************************************-->
+
+
+
 <!--
 # Hi, I'm Abanoub Magdi 👋
 
@@ -72,7 +93,7 @@
  -->
 
 
-<!--************************************************************** -->
+<!--****************************************************************************************************************************************************************************************** -->
 
 
  
