@@ -1,6 +1,6 @@
 ## Hi  👋 Im Abanoub Magdi
 
-## Im a Fullstack .NET , Angular Developer  
+## A Fullstack .NET , Angular Developer  
 
 ## 📫 How to reach me:
 
