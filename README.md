@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi  👋 Im Abanoub Magdi
+
+## Im a Fullstack .net Developer  
+
+## 📫 How to reach me:
+
+## Linkedin: https://linkedin.com/in/abanoub-magdi
+
+## Phone:
+## 01227926342 , 01009481399 
+
+## Email: abanoubmagdi.y@gmail.com
 
 <!--
 **Abanoub-Magdi/Abanoub-Magdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
