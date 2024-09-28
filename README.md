@@ -66,12 +66,12 @@
 - **Email:** [abanoubmagdi.y@gmail.com](mailto:abanoubmagdi.y@gmail.com)
 
 ---
-
+<!-- 
 ### 🌟 GitHub Stats:
 
 ![Abanoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-
+-->
 
 
 <!--****************************************************************************************************************************************************************************************** -->
