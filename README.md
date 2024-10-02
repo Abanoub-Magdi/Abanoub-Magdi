@@ -17,10 +17,6 @@
 ---
 
 
-
-
-### 🛠️ Technical Skills:
-
 - **Languages:** C#, JavaScript (ES6+), TypeScript, HTML5, CSS3
 - **Frameworks & Libraries:** .NET Core, Angular, React, Redux, Entity Framework
 - **Tools & Platforms:** Git, Azure, Docker, GitHub, Node.js, npm
@@ -59,7 +55,7 @@
 
 ---
 
-### 📫 How to Reach Me:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" /> How to Reach Me:
 
 - **LinkedIn:** [Abanoub Magdi](https://linkedin.com/in/abanoub-magdi)
 - **Phone:** `01227926342`, `01009481399`
