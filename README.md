@@ -1,4 +1,4 @@
- # Hi, I'm Abanoub Magdi 👋
+ # Hi, I'm Abanoub Magdi <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 
 ## Fullstack .NET & Angular Developer
 
@@ -67,6 +67,7 @@
 
 <!-- 
 ---
+👋
 ### 🌟 GitHub Stats:
 
 ![Abanoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
