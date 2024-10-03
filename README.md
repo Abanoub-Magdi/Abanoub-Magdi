@@ -5,8 +5,7 @@
 ### Software Engineer at Etisalat by e& (Etisalat Misr)
 
 ---
-
-### 🚀 About Me:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> About Me: 
 
 - 🔧 Fullstack Developer specialized in **.NET** and **Angular** with over two years of experience in front-end and back-end development.
 - 💻 Passionate about developing scalable web applications and building user-friendly solutions.
@@ -25,7 +24,8 @@
 - **Databases:** SQL Server, MySQL, MongoDB
 - **Others:** API development (RESTful), Web Security, Unit Testing, CI/CD pipelines
 
-
+---
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="dotnetcore" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="angular" />
