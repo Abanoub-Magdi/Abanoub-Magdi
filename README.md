@@ -55,8 +55,15 @@
 - **Phone:** `01227926342`, `01009481399`
 - **Email:** [abanoubmagdi.y@gmail.com](mailto:abanoubmagdi.y@gmail.com)
 
+---
 
-### Others Stats:
+### Views:
 
 
 ![](https://visitcount.itsvg.in/api?id=Abanoub-Magdi&icon=0&color=0 "Visitor Count")
+
+---
+
+### MY Status:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abanoub-Magdi&theme=blue_green "Profile Details")
