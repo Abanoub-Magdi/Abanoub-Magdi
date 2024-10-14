@@ -54,3 +54,9 @@
 - **LinkedIn:** [Abanoub Magdi](https://linkedin.com/in/abanoub-magdi)
 - **Phone:** `01227926342`, `01009481399`
 - **Email:** [abanoubmagdi.y@gmail.com](mailto:abanoubmagdi.y@gmail.com)
+
+
+### Others Stats:
+
+
+![](https://visitcount.itsvg.in/api?id=Abanoub-Magdi&icon=0&color=0 "Visitor Count")
