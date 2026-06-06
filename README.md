@@ -1,6 +1,6 @@
 # Hi, I'm Abanoub Magdi <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 
-## Senior Angular / Frontend Developer
+## Senior Frontend Developer - Angular
 ### Software Engineer @ Systems Limited
 
 ---
