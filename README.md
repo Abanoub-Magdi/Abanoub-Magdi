@@ -60,5 +60,3 @@
 ### My Status:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abanoub-Magdi&theme=blue_green "Profile Details")
-
-<img src="https://visitcount.itsvg.in/api?id=Abanoub-Magdi&icon=0&color=0" alt="Visitor Count"/>
